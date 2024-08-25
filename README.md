@@ -5,7 +5,7 @@
     │   ├── websocket.go       # WebSocket implementation
     |   |── handler.go         # API handlers
     │   └── router.go          # API routes and middleware setup
-    ├── api
+    ├── cache
     |   ├── cache.go           # Core cache logic
     ├── main.go                # Entry point for the application
     ├── go.mod                 # Go module dependencies
