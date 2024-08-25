@@ -1,16 +1,16 @@
 # LRU Cache Manager
 
 ## Project Structure
-├── api
-│   ├── websocket.go       # WebSocket implementation
-|   |── handler.go         # API handlers
-│   └── router.go          # API routes and middleware setup
-├── api
-|   ├── cache.go           # Core cache logic
-├── main.go                # Entry point for the application
-├── go.mod                 # Go module dependencies
-├── go.sum                 # Go module checksums
-└── README.md              # Project documentation
+    ├── api
+    │   ├── websocket.go       # WebSocket implementation
+    |   |── handler.go         # API handlers
+    │   └── router.go          # API routes and middleware setup
+    ├── api
+    |   ├── cache.go           # Core cache logic
+    ├── main.go                # Entry point for the application
+    ├── go.mod                 # Go module dependencies
+    ├── go.sum                 # Go module checksums
+    └── README.md              # Project documentation
 
 
 ## Overview
